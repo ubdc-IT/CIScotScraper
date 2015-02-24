@@ -1,2 +1,2 @@
 # CIScotScraper
-web scraper for care inspectrate website
+web scraper for care inspectorate website
